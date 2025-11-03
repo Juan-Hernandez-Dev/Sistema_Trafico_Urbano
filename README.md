@@ -1,3 +1,4 @@
-# Sistema_Trafico_Urbano
+# Yo voy
 
-# Comando para ejecutar:
+comando para ejecutar el proyecto:
+```cls;./run.bat```
